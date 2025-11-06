@@ -131,4 +131,4 @@ pandas
 
 ## 📜 License
 
-This project is released under the **MIT License** — you’re free to modify and distribute it with attribution.
+This project is released under the **MIT License**
